@@ -5,7 +5,7 @@
 
 1. Клонируйте репозиторий в локальную папку на вашем компьютере
 ```
-git clone https://github.com/Bambik-git/CRM_nextjs.git
+git clone https://github.com/Bambik-git/jellybellyAPI
 ```
 2. Откройте скачанный проект в любом редакторе кода и выполните команду по установки зависимостей из package.json
 ```
