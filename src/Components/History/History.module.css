@@ -1,0 +1,19 @@
+.container {
+    text-align: center;
+    padding: 50px;
+}
+
+.container h1 {
+    color: #e83a4b;
+    font-size: 30px;
+}
+
+.block {
+    /*border: 1px solid #000;*/
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+
+}

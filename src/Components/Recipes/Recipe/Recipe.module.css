@@ -1,0 +1,70 @@
+.block {
+    min-width: 500px;
+    width: 850px;
+    margin: 50px auto;
+    font-size: 18px;
+}
+
+.container {
+    background-color: #f9f5f4;
+    color: #e83a4b;
+    border-radius: 50px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 50px;
+    text-align: left;
+}
+
+.name h1 {
+    font-weight: 700;
+}
+
+.description {
+    margin-top: 20px;
+}
+
+.cook_items {
+    margin-top: 10px;
+}
+
+.recipe_image {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.recipe_image img {
+    width: 500px;
+    border-radius: 30px;
+}
+.ingredients {
+    line-height: 1.1;
+}
+.additions1 {
+    margin-top: 10px;
+    line-height: 1.1;
+}
+.ingredients {
+    margin-top: 50px;
+}
+
+.directions{
+    margin-top: 10px;
+}
+
+.tips {
+    margin-top: 15px;
+}
+
+
+
+.link_back {
+    margin-top: 50px;
+}
+
+.link_back a {
+    color: #e83a4b;
+}
+.link_back a:hover {
+    color: #e83a4b;
+    text-decoration: #e83a4b underline;
+}

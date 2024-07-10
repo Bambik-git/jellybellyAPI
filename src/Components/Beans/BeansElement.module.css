@@ -1,0 +1,33 @@
+.block{
+    /*border: 1px solid #000;*/
+    width: 450px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 80px;
+}
+
+.block:hover {
+    background-color: #f9f5f4;
+    border: 2px solid #e83a4b;
+}
+
+.name a {
+    font-weight: 500;
+    font-size: 24px;
+    color: #e83a4b;
+}
+
+.image {
+    width: 70%;
+}
+
+.description {
+    color: #e83a4b;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+}
+

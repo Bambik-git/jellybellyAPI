@@ -1,0 +1,23 @@
+.navbar {
+    display: block;
+    text-align: center;
+    height: 90px;
+    background-color: #f9f5f4;
+}
+.navigation {
+    display: inline-flex;
+    width: 30%;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+}
+.navigation_link {
+    color: #e83a4b;
+}
+
+.navigation_link:hover {
+    border: 1px solid #e83a4b;
+    padding: 7px;
+    border-radius: 20px;
+
+}

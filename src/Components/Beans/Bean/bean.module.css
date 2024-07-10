@@ -1,0 +1,41 @@
+.block {
+    width: 50%;
+    margin: 50px auto;
+
+}
+
+.container {
+    background-color: #f9f5f4;
+    color: #e83a4b;
+    border-radius: 100px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.image img {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+}
+
+.link_back {
+    margin-top: 50px;
+    text-align: left;
+}
+
+.link_back a {
+    color: #e83a4b;
+}
+.link_back a:hover {
+    color: #e83a4b;
+    border-bottom: #e83a4b;
+}
+
+.grid {
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 10px;
+}
